@@ -52,7 +52,7 @@
 
 ### Block Diagram
 <p align="center">
-    <img src="images/block_diagram.png" alt="Logo" width="500" height="400">
+    <img src="images/block_diagram_2.png" alt="Logo" width="500" height="400">
  </p>
 
 ### Full Report
